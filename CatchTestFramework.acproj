@@ -1,0 +1,16 @@
+{
+  "Name": "CatchTestFramework",
+  "Type": "StaticLibrary",
+  "References": [],
+  "Includes": [
+    {
+      "Value": "../CatchTestFramework",
+      "Exported": true,
+      "Global": false
+    }
+  ],
+  "StaticLibraries": [],
+  "ExcludedFiles": [],
+  "ToolchainSettings": {},
+  "DebugSettings": {}
+}
