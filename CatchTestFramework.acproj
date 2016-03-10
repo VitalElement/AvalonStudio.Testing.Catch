@@ -4,7 +4,7 @@
   "References": [],
   "Includes": [
     {
-      "Value": "../CatchTestFramework",
+      "Value": "../AvalonStudio.Testing.Catch",
       "Exported": true,
       "Global": false
     }
@@ -12,5 +12,6 @@
   "StaticLibraries": [],
   "ExcludedFiles": [],
   "ToolchainSettings": {},
-  "DebugSettings": {}
+  "DebugSettings": {},
+  "Hidden": true
 }
