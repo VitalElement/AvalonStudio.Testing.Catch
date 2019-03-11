@@ -1,17 +1,19 @@
 {
-  "Name": "CatchTestFramework",
-  "Type": "StaticLibrary",
   "References": [],
-  "Includes": [
+  "excludedFiles": [],
+  "type": "StaticLibrary",
+  "includes": [
     {
-      "Value": "../AvalonStudio.Testing.Catch",
-      "Exported": true,
-      "Global": false
+      "value": "../AvalonStudio.Testing.Catch",
+      "exported": true,
+      "global": false
     }
   ],
-  "StaticLibraries": [],
-  "ExcludedFiles": [],
-  "ToolchainSettings": {},
-  "DebugSettings": {},
-  "Hidden": true
+  "staticLibraries": [],
+  "toolchainSettings": {},
+  "debugSettings": {},
+  "settings": {
+    "AvalonStudio.Projects.CPlusPlus.BuildEventsSettings": {}
+  },
+  "hidden": true
 }
